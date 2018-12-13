@@ -43,7 +43,7 @@
     "connect-redis": "^3.0.2",
     "exif": "*",
     "exiftool": "0.0.3",
-    "express": "4.13.3",
+    "express": "4.16.4",
     "express-session": "^1.13.0",
     "faced": "^1.2.0",
     "ffprobe": "^1.1.0",

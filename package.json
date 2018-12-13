@@ -53,7 +53,7 @@
     "kue": "^0.10.5",
     "minimist": "^1.2.0",
     "mp4js": "0.0.2",
-    "multer": "1.1.0",
+    "multer": "1.4.1",
     "node-dir": "*",
     "node-iptc": "git+https://github.com/mansehr/node-iptc.git",
     "passport": "^0.3.2",
